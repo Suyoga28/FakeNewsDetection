@@ -3,6 +3,8 @@
 This project focuses on detecting fake news using Natural Language Processing (NLP) and Machine Learning techniques. It was developed and executed in a Jupyter Notebook environment using Python libraries such as Scikit-learn, Pandas, and TfidfVectorizer.
 
 ---
+-> Deployed using Streamlit!
+
 ![Demo Screenshot](FND.jpg)
 
 
@@ -19,6 +21,7 @@ Fake news has become a significant concern in the digital age. In this project, 
 ## 🧰 Tech Stack
 
 - 🐍 Python
+- 📚 Streamlit
 - 📓 Jupyter Notebook
 - 📚 Libraries: `Pandas`, `NumPy`, `Scikit-learn`, `TfidfVectorizer`, `NLP`
 
